@@ -21,10 +21,10 @@ Coding is an art. A programming language is a tool, just like a piano for a musi
 
 ### Skills
 
-- :heavy_check_mark: HTML5 / CSS3
-- :heavy_check_mark: JavaScript / TypeScript
-- :heavy_check_mark: React / Redux
-- :heavy_check_mark: Vite / Webpack
+- HTML5 / CSS3
+- JavaScript / TypeScript
+- React / Redux
+- Vite / Webpack
 
 ---
 
